@@ -1,0 +1,20 @@
+[
+{
+      "modid": "oliveharvestcraft",
+      "name": "OliveHarvestCraft Compatibility",
+      "description": "Add compatibility recipes between Jose Richi's OliveCraft and Pam's HarvestCraft",
+      "version": "@VERSION@",
+      "credits": "Created by Sinhika, inspired by BeckyH",
+      "logoFile": "",
+      "mcversion": "1.6.4",
+      "url": "https://github.com/Sinhika/OliveHarvestCraft_Compatibility",
+      "updateUrl": "",
+      "authors": [ "Sinhika" ],
+      "screenshots": [],
+      "parent":"",
+      "requiredMods" : ["Forge", "olivecraft", "pamharvestcraft"],
+      "dependencies": ["Forge", "olivecraft", "pamharvestcraft" ],
+      "dependants": [],
+      "useDependencyInformation" : "true"
+}
+]
